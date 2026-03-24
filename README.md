@@ -11,3 +11,5 @@ my current and best project is [auth's RNG](https://github.com/auth1ery/authsRNG
 ---
 
 mountain time (UTC−7 / UTC−6 DST)
+
+![snake](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
