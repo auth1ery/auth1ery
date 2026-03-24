@@ -2,7 +2,7 @@ creamy salt
 
 im a indie web developer, im sort of a full-stack developer but i mainly make static websites, since node.js is actual pain
 
-my current and best project is [auth's RNG](https://github.com/auth1ery/authsRNG). go star or watch it! :)
+my current and best project is [auth's RNG](https://github.com/auth1ery/auths-RNG). go star or watch it! :)
 
 ---
 
