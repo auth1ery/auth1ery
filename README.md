@@ -1,18 +1,15 @@
 creamy salt
 
-im a indie web developer, im sort of a full-stack developer but i mainly make static websites, since node.js is actual pain
+web developer, arch linux enthusiast (btw)
 
-my current and best project is [auth's RNG](https://github.com/auth1ery/auths-RNG). go star or watch it! :)
+my current and best projects are [auth's RNG](https://github.com/authsrng-game/auths-RNG) and [cupcake](https://github.com/cloudlull/cupcake) !!!
+
+![](https://github-visitor-counter-tau.vercel.app/api?username=auth1ery)
 
 ---
 
-![auth1ery's Stats](https://github-readme-stats.vercel.app/api?username=auth1ery&theme=dracula&show_icons=true&hide_border=false&count_private=false)
-![auth1ery's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=auth1ery&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 ![auth1ery's Streak](https://github-readme-streak-stats.herokuapp.com/?user=auth1ery&theme=dracula&hide_border=false)
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=auth1ery&theme=dracula)
 
 ---
 
 mountain time (UTC−7 / UTC−6 DST)
-
-![snake](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
