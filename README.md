@@ -26,8 +26,6 @@ my main and best project is [auth's RNG](https://github.com/authsrng-game/auths-
 
 ✦ · ───────── · ✦
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=auth1ery&theme=catppuccin-mocha&hide_border=true)](https://github.com/auth1ery)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=auth1ery&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 
 mountain time (UTC−7 / UTC−6 DST)
