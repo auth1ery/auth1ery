@@ -12,7 +12,7 @@ web developer + fullstack + indie!
 
 ✦ · ───────── · ✦
 
-im a trans female web developer who likes building weird and niche things for the web.
+hey im auth! im a trans female web developer who likes building weird and niche things for the web.
 
 i maintain and use my own linux distro named bloom and i currently live in canada!
 
