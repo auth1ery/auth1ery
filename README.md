@@ -1,7 +1,20 @@
-ive gotten poisoned by poison ivy
+<div align="center">
+  <a href="https://auth.cloudlull.fyi">
+    <img src="https://auth.cloudlull.fyi/src/assets/button.gif" width="88" height="31" alt="auth">
+  </a>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1227759305852190801)](https://discord.com)
+<br><br>
 
-mountain time (UTC−7 / UTC−6 DST)
+  <a href="https://discord.com">
+    <img src="https://lanyard.cnrad.dev/api/1227759305852190801" alt="Discord Presence">
+  </a>
 
-active linux kernel contributor/reviewer, see https://lore.kernel.org/all/?q=skunkolee%40gmail.com
+<br><br>
+
+  <p>
+    active linux kernel contributor/reviewer!<br>
+    <a href="https://lore.kernel.org/all/?q=skunkolee%40gmail.com">
+      kernel mailing list activity
+    </a>
+  </p>
+</div>
